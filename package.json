@@ -28,7 +28,7 @@
     "webpack",
     "boilerplate"
   ],
-  "author": "Krishna Timilsina <bikranshu.t@gmail.com>",
+  "author": "Jayantilal Prajapat <jayanti.prajapat@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
